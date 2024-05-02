@@ -1,0 +1,1 @@
+The app was devloped using JavaFx library.
